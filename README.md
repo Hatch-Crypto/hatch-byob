@@ -1,5 +1,5 @@
 # Build Your Own Blockchain (BYOB)
-travis test
+
 In this two-part exercise, you will build a blockchain that can store basic text messages in a blockchain, and allow the state of the blockchain to be queried.
 
 The objectives of this exercise are to get familiar with the fundamental data structures, operations, and communication messages for a blockchain.
