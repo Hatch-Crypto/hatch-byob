@@ -1,4 +1,4 @@
-# Build Your Own Blockchain (BYOB)
+# Build Your Own Blockchain (BYOB) TEST
 
 In this two-part exercise, you will build a blockchain that can store basic text messages in a blockchain, and allow the state of the blockchain to be queried.
 
